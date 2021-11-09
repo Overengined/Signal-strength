@@ -1,11 +1,11 @@
-Write-Host "  _______ _      _____       _            "
-Write-Host " |__   __| |    |  __ \     (_)           "
-Write-Host "    | |  | |    | |__) |     _ _ __   ___ "
-Write-Host "    | |  | |    |  _  /     | | '_ \ / __|"
-Write-Host "    | |  | |____| | \ \     | | | | | (__ "
-Write-Host "    |_|  |______|_|  \_\    |_|_| |_|\___|"
-Write-Host "                     TLR inc"
-Write-Host "                   Version 1.1"
+Write-Host "    __  __                         _           "
+Write-Host "   / / / /_  ______  ___  _____   (_)___  _____"
+Write-Host "  / /_/ / / / / __ \/ _ \/ ___/  / / __ \/ ___/"
+Write-Host " / __  / /_/ / /_/ /  __/ /     / / / / / /__  "
+Write-Host "/_/ /_/\__, / .___/\___/_/     /_/_/ /_/\___/  "
+Write-Host "      /____/_/                                 "
+Write-Host "                     Hyper inc"
+Write-Host "                   Version 1.2"
 $usrinput = Read-Host 'enter the number of pass'
 $avg = 0
 $i = 0
